@@ -1,4 +1,4 @@
-package nl.tomvanzummeren.fileupload;
+package nl.tomvanzummeren.appengine.fileupload;
 
 import org.apache.commons.fileupload.FileItemStream;
 import org.springframework.util.FileCopyUtils;

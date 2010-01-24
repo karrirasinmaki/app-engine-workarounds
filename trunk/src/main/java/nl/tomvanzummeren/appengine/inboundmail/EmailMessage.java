@@ -1,4 +1,4 @@
-package nl.tomvanzummeren.inboundmail;
+package nl.tomvanzummeren.appengine.inboundmail;
 
 import javax.mail.Address;
 import javax.mail.BodyPart;
