@@ -5,7 +5,7 @@
     <groupId>nl.tomvanzummeren</groupId>
     <artifactId>app-engine-workarounds</artifactId>
     <packaging>jar</packaging>
-    <version>1.0</version>
+    <version>1.1-SNAPSHOT</version>
     <name>app-engine-workarounds</name>
     <url>http://code.google.com/p/app-engine-workarounds/</url>
     
