@@ -1,10 +1,10 @@
-package nl.tomvanzummeren.inboundmail;
+package nl.tomvanzummeren.appengine.inboundmail;
 
 /**
  * The text body of an {@code EmailMessage}.
  *
  * @author Tom van Zummeren
- * @see nl.tomvanzummeren.inboundmail.EmailMessage
+ * @see EmailMessage
  */
 public class Body {
 

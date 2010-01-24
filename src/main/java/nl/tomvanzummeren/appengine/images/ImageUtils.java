@@ -1,4 +1,4 @@
-package nl.tomvanzummeren.images;
+package nl.tomvanzummeren.appengine.images;
 
 import com.google.appengine.api.images.Image;
 

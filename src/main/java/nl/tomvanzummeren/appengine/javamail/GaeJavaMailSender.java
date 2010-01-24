@@ -1,4 +1,4 @@
-package nl.tomvanzummeren.javamail;
+package nl.tomvanzummeren.appengine.javamail;
 
 import org.springframework.mail.javamail.JavaMailSenderImpl;
 

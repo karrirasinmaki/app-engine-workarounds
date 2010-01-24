@@ -1,4 +1,4 @@
-package nl.tomvanzummeren.inboundmail;
+package nl.tomvanzummeren.appengine.inboundmail;
 
 import org.springframework.util.FileCopyUtils;
 
@@ -9,7 +9,7 @@ import java.io.InputStream;
  * A file attachment of a {@code EmailMessage}.
  *
  * @author Tom van Zummeren
- * @see nl.tomvanzummeren.inboundmail.EmailMessage
+ * @see EmailMessage
  */
 public class Attachment {
 

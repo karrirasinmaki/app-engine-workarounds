@@ -1,4 +1,4 @@
-package nl.tomvanzummeren.fileupload;
+package nl.tomvanzummeren.appengine.fileupload;
 
 import org.springframework.util.LinkedMultiValueMap;
 import org.springframework.util.MultiValueMap;
