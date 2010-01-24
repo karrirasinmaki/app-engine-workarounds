@@ -10,8 +10,6 @@
     <url>http://code.google.com/p/app-engine-workarounds/</url>
     
     <build>
-        <finalName>Google Epp Engine Workarounds</finalName>
-
         <plugins>
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
